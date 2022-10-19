@@ -4,6 +4,7 @@ The following URLs should work:
 
 * <https://nextstrain.org/community/nextstrain/community-test/zika/tutorial>
 * <https://nextstrain.org/community/narratives/nextstrain/community-test/intro-to-narratives>
+* <https://nextstrain.org/community/narratives/nextstrain/community-test/nested/intro-to-narratives>
 
 Other branches:
 
