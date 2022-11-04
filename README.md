@@ -10,3 +10,4 @@ Other branches:
 
 * [alt](https://github.com/nextstrain/community-test/tree/alt)
 * [top-level](https://github.com/nextstrain/community-test/tree/top-level)
+* [narratives-only](https://github.com/nextstrain/community-test/tree/narratives-only)
